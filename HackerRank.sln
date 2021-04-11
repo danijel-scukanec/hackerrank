@@ -17,6 +17,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays", "Arrays", "{523C49
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.Arrays.2DArrayDS", "HackerRank.Arrays.2DArrayDS\HackerRank.Arrays.2DArrayDS.csproj", "{786B294E-45A0-4E20-B6D9-1808A699A3F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.Arrays.LeftRotation", "HackerRank.Arrays.LeftRotation\HackerRank.Arrays.LeftRotation.csproj", "{967A790A-D111-4030-8E17-7989F3B6B3CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{786B294E-45A0-4E20-B6D9-1808A699A3F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{786B294E-45A0-4E20-B6D9-1808A699A3F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{786B294E-45A0-4E20-B6D9-1808A699A3F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{967A790A-D111-4030-8E17-7989F3B6B3CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{967A790A-D111-4030-8E17-7989F3B6B3CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{967A790A-D111-4030-8E17-7989F3B6B3CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{967A790A-D111-4030-8E17-7989F3B6B3CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -53,6 +59,7 @@ Global
 		{C5E3E3C0-81CF-4C71-B643-852AE7D3401F} = {F03AFB5A-EFAB-4AB0-835B-F39FF0D761D7}
 		{1D294E0B-3BEB-4BB2-8D2C-4FA45B15A84E} = {F03AFB5A-EFAB-4AB0-835B-F39FF0D761D7}
 		{786B294E-45A0-4E20-B6D9-1808A699A3F1} = {523C49C6-EB98-46FF-9830-05DFE05060C8}
+		{967A790A-D111-4030-8E17-7989F3B6B3CC} = {523C49C6-EB98-46FF-9830-05DFE05060C8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5E3CA82F-F76A-412A-94F7-5B97F3FB816D}
