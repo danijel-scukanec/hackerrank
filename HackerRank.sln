@@ -31,7 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank.DictionariesAndH
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank.DictionariesAndHashmaps.SherlockAndAnagrams", "HackerRank.DictionariesAndHashmaps.SherlockAndAnagrams\HackerRank.DictionariesAndHashmaps.SherlockAndAnagrams.csproj", "{5FAAE0D1-9BA0-48F7-AFA2-E04BEF7DF6DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.DictionariesAndHashmaps.CountTriplets", "HackerRank.DictionariesAndHashmaps.CountTriplets\HackerRank.DictionariesAndHashmaps.CountTriplets.csproj", "{2CC0E6D3-D799-4C09-86AB-081753565FF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank.DictionariesAndHashmaps.CountTriplets", "HackerRank.DictionariesAndHashmaps.CountTriplets\HackerRank.DictionariesAndHashmaps.CountTriplets.csproj", "{2CC0E6D3-D799-4C09-86AB-081753565FF8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sorting", "Sorting", "{C1F04755-86B8-4F91-9946-00E6A1B0EE3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.Sorting.BubbleSort", "HackerRank.Sorting.BubbleSort\HackerRank.Sorting.BubbleSort.csproj", "{DECE55D6-61C6-47F2-87D5-CD37CA36A491}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +91,10 @@ Global
 		{2CC0E6D3-D799-4C09-86AB-081753565FF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CC0E6D3-D799-4C09-86AB-081753565FF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CC0E6D3-D799-4C09-86AB-081753565FF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DECE55D6-61C6-47F2-87D5-CD37CA36A491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DECE55D6-61C6-47F2-87D5-CD37CA36A491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DECE55D6-61C6-47F2-87D5-CD37CA36A491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DECE55D6-61C6-47F2-87D5-CD37CA36A491}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -104,6 +112,7 @@ Global
 		{764F93B2-4111-48B9-8735-159E9862190C} = {6A24E18A-1DFA-417E-8173-926360FC44C0}
 		{5FAAE0D1-9BA0-48F7-AFA2-E04BEF7DF6DA} = {6A24E18A-1DFA-417E-8173-926360FC44C0}
 		{2CC0E6D3-D799-4C09-86AB-081753565FF8} = {6A24E18A-1DFA-417E-8173-926360FC44C0}
+		{DECE55D6-61C6-47F2-87D5-CD37CA36A491} = {C1F04755-86B8-4F91-9946-00E6A1B0EE3E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5E3CA82F-F76A-412A-94F7-5B97F3FB816D}
