@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.Sorting.BubbleSo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.Sorting.MarkAndToys", "HackerRank.Sorting.MarkAndToys\HackerRank.Sorting.MarkAndToys.csproj", "{FE7EE0DD-DFBF-4641-892A-F6A39A622CF0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.Sorting.Comparator", "HackerRank.Sorting.Comparator\HackerRank.Sorting.Comparator.csproj", "{A28BA250-FB61-4A5D-9BBE-0E429A62BF0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -101,6 +103,10 @@ Global
 		{FE7EE0DD-DFBF-4641-892A-F6A39A622CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE7EE0DD-DFBF-4641-892A-F6A39A622CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE7EE0DD-DFBF-4641-892A-F6A39A622CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A28BA250-FB61-4A5D-9BBE-0E429A62BF0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A28BA250-FB61-4A5D-9BBE-0E429A62BF0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A28BA250-FB61-4A5D-9BBE-0E429A62BF0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A28BA250-FB61-4A5D-9BBE-0E429A62BF0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -120,6 +126,7 @@ Global
 		{2CC0E6D3-D799-4C09-86AB-081753565FF8} = {6A24E18A-1DFA-417E-8173-926360FC44C0}
 		{DECE55D6-61C6-47F2-87D5-CD37CA36A491} = {C1F04755-86B8-4F91-9946-00E6A1B0EE3E}
 		{FE7EE0DD-DFBF-4641-892A-F6A39A622CF0} = {C1F04755-86B8-4F91-9946-00E6A1B0EE3E}
+		{A28BA250-FB61-4A5D-9BBE-0E429A62BF0F} = {C1F04755-86B8-4F91-9946-00E6A1B0EE3E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5E3CA82F-F76A-412A-94F7-5B97F3FB816D}
