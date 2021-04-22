@@ -59,9 +59,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tree", "Tree", "{53C6716D-2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.Tree.HeightOfABinaryTree", "HackerRank.Tree.HeightOfABinaryTree\HackerRank.Tree.HeightOfABinaryTree.csproj", "{0DFC8920-4A9F-4712-B874-3021A6BF86E6}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Recursion", "Recursion", "{CDE6B955-C74A-40DE-B116-FF1FE52DFAF9}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RecursionAndBacktracking", "RecursionAndBacktracking", "{CDE6B955-C74A-40DE-B116-FF1FE52DFAF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.Recursion.FibonacciNumbers", "HackerRank.Recursion.FibonacciNumbers\HackerRank.Recursion.FibonacciNumbers.csproj", "{7E3E2F62-E695-4BFF-BC87-F1F1349C8CDB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.RecursionAndBacktracking.FibonacciNumbers", "HackerRank.Recursion.FibonacciNumbers\HackerRank.RecursionAndBacktracking.FibonacciNumbers.csproj", "{7E3E2F62-E695-4BFF-BC87-F1F1349C8CDB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Miscellaneous", "Miscellaneous", "{2AC6E041-4628-43C2-8D46-5CC23BE0DBA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.Miscellaneous.FlippingBits", "HackerRank.Miscellaneous.FlippingBits\HackerRank.Miscellaneous.FlippingBits.csproj", "{8DA41997-C649-4E29-95BD-1B8278D2886C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -157,6 +161,10 @@ Global
 		{7E3E2F62-E695-4BFF-BC87-F1F1349C8CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E3E2F62-E695-4BFF-BC87-F1F1349C8CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E3E2F62-E695-4BFF-BC87-F1F1349C8CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DA41997-C649-4E29-95BD-1B8278D2886C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA41997-C649-4E29-95BD-1B8278D2886C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA41997-C649-4E29-95BD-1B8278D2886C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA41997-C649-4E29-95BD-1B8278D2886C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -184,6 +192,7 @@ Global
 		{83542207-CE3D-469B-A0FB-593E54B85622} = {C58020AD-1884-4AF8-BDC3-5C3D8863A591}
 		{0DFC8920-4A9F-4712-B874-3021A6BF86E6} = {53C6716D-228E-4C6B-A0F4-FECB916E5F8C}
 		{7E3E2F62-E695-4BFF-BC87-F1F1349C8CDB} = {CDE6B955-C74A-40DE-B116-FF1FE52DFAF9}
+		{8DA41997-C649-4E29-95BD-1B8278D2886C} = {2AC6E041-4628-43C2-8D46-5CC23BE0DBA8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5E3CA82F-F76A-412A-94F7-5B97F3FB816D}

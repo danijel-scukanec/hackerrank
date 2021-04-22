@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HackerRank.Recursion.FibonacciNumbers
+namespace HackerRank.RecursionAndBacktracking.FibonacciNumbers
 {
     class Program
     {
