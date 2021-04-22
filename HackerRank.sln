@@ -59,6 +59,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tree", "Tree", "{53C6716D-2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.Tree.HeightOfABinaryTree", "HackerRank.Tree.HeightOfABinaryTree\HackerRank.Tree.HeightOfABinaryTree.csproj", "{0DFC8920-4A9F-4712-B874-3021A6BF86E6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Recursion", "Recursion", "{CDE6B955-C74A-40DE-B116-FF1FE52DFAF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.Recursion.FibonacciNumbers", "HackerRank.Recursion.FibonacciNumbers\HackerRank.Recursion.FibonacciNumbers.csproj", "{7E3E2F62-E695-4BFF-BC87-F1F1349C8CDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -149,6 +153,10 @@ Global
 		{0DFC8920-4A9F-4712-B874-3021A6BF86E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DFC8920-4A9F-4712-B874-3021A6BF86E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DFC8920-4A9F-4712-B874-3021A6BF86E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E3E2F62-E695-4BFF-BC87-F1F1349C8CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E3E2F62-E695-4BFF-BC87-F1F1349C8CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E3E2F62-E695-4BFF-BC87-F1F1349C8CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E3E2F62-E695-4BFF-BC87-F1F1349C8CDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -175,6 +183,7 @@ Global
 		{624EBD0E-DAE6-4E95-957E-5DEFA8499578} = {C58020AD-1884-4AF8-BDC3-5C3D8863A591}
 		{83542207-CE3D-469B-A0FB-593E54B85622} = {C58020AD-1884-4AF8-BDC3-5C3D8863A591}
 		{0DFC8920-4A9F-4712-B874-3021A6BF86E6} = {53C6716D-228E-4C6B-A0F4-FECB916E5F8C}
+		{7E3E2F62-E695-4BFF-BC87-F1F1349C8CDB} = {CDE6B955-C74A-40DE-B116-FF1FE52DFAF9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5E3CA82F-F76A-412A-94F7-5B97F3FB816D}
