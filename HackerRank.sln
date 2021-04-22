@@ -35,17 +35,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank.DictionariesAndH
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sorting", "Sorting", "{C1F04755-86B8-4F91-9946-00E6A1B0EE3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.Sorting.BubbleSort", "HackerRank.Sorting.BubbleSort\HackerRank.Sorting.BubbleSort.csproj", "{DECE55D6-61C6-47F2-87D5-CD37CA36A491}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank.Sorting.BubbleSort", "HackerRank.Sorting.BubbleSort\HackerRank.Sorting.BubbleSort.csproj", "{DECE55D6-61C6-47F2-87D5-CD37CA36A491}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.Sorting.MarkAndToys", "HackerRank.Sorting.MarkAndToys\HackerRank.Sorting.MarkAndToys.csproj", "{FE7EE0DD-DFBF-4641-892A-F6A39A622CF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank.Sorting.MarkAndToys", "HackerRank.Sorting.MarkAndToys\HackerRank.Sorting.MarkAndToys.csproj", "{FE7EE0DD-DFBF-4641-892A-F6A39A622CF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.Sorting.Comparator", "HackerRank.Sorting.Comparator\HackerRank.Sorting.Comparator.csproj", "{A28BA250-FB61-4A5D-9BBE-0E429A62BF0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank.Sorting.Comparator", "HackerRank.Sorting.Comparator\HackerRank.Sorting.Comparator.csproj", "{A28BA250-FB61-4A5D-9BBE-0E429A62BF0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.Sorting.FraudulentActivityNotifications", "HackerRank.Sorting.FraudulentActivityNotifications\HackerRank.Sorting.FraudulentActivityNotifications.csproj", "{115CB5C9-8129-4EC9-A8B6-55D0277ECAE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank.Sorting.FraudulentActivityNotifications", "HackerRank.Sorting.FraudulentActivityNotifications\HackerRank.Sorting.FraudulentActivityNotifications.csproj", "{115CB5C9-8129-4EC9-A8B6-55D0277ECAE1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StringManipulation", "StringManipulation", "{22238083-EF22-42BE-90AF-B4AB47E84198}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.StringManipulation.MakingAnagrams", "HackerRank.StringManipulation.MakingAnagrams\HackerRank.StringManipulation.MakingAnagrams.csproj", "{5EF52883-C3CA-4DB8-81AE-7134486BB5D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank.StringManipulation.MakingAnagrams", "HackerRank.StringManipulation.MakingAnagrams\HackerRank.StringManipulation.MakingAnagrams.csproj", "{5EF52883-C3CA-4DB8-81AE-7134486BB5D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.StringManipulation.AlternatingCharacters", "HackerRank.StringManipulation.AlternatingCharacters\HackerRank.StringManipulation.AlternatingCharacters.csproj", "{CAD3E600-A648-4CB6-9723-18FB8BC14F72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -121,6 +123,10 @@ Global
 		{5EF52883-C3CA-4DB8-81AE-7134486BB5D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EF52883-C3CA-4DB8-81AE-7134486BB5D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EF52883-C3CA-4DB8-81AE-7134486BB5D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD3E600-A648-4CB6-9723-18FB8BC14F72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD3E600-A648-4CB6-9723-18FB8BC14F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD3E600-A648-4CB6-9723-18FB8BC14F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD3E600-A648-4CB6-9723-18FB8BC14F72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -143,6 +149,7 @@ Global
 		{A28BA250-FB61-4A5D-9BBE-0E429A62BF0F} = {C1F04755-86B8-4F91-9946-00E6A1B0EE3E}
 		{115CB5C9-8129-4EC9-A8B6-55D0277ECAE1} = {C1F04755-86B8-4F91-9946-00E6A1B0EE3E}
 		{5EF52883-C3CA-4DB8-81AE-7134486BB5D5} = {22238083-EF22-42BE-90AF-B4AB47E84198}
+		{CAD3E600-A648-4CB6-9723-18FB8BC14F72} = {22238083-EF22-42BE-90AF-B4AB47E84198}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5E3CA82F-F76A-412A-94F7-5B97F3FB816D}
