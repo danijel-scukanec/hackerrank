@@ -47,13 +47,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StringManipulation", "Strin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank.StringManipulation.MakingAnagrams", "HackerRank.StringManipulation.MakingAnagrams\HackerRank.StringManipulation.MakingAnagrams.csproj", "{5EF52883-C3CA-4DB8-81AE-7134486BB5D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.StringManipulation.AlternatingCharacters", "HackerRank.StringManipulation.AlternatingCharacters\HackerRank.StringManipulation.AlternatingCharacters.csproj", "{CAD3E600-A648-4CB6-9723-18FB8BC14F72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank.StringManipulation.AlternatingCharacters", "HackerRank.StringManipulation.AlternatingCharacters\HackerRank.StringManipulation.AlternatingCharacters.csproj", "{CAD3E600-A648-4CB6-9723-18FB8BC14F72}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GreedyAlgorithms", "GreedyAlgorithms", "{C58020AD-1884-4AF8-BDC3-5C3D8863A591}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.GreedyAlgorithms.MinimumAbsoluteDifferenceInAnArray", "HackerRank.GreedyAlgorithms.MinimumAbsoluteDifferenceInAnArray\HackerRank.GreedyAlgorithms.MinimumAbsoluteDifferenceInAnArray.csproj", "{624EBD0E-DAE6-4E95-957E-5DEFA8499578}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank.GreedyAlgorithms.MinimumAbsoluteDifferenceInAnArray", "HackerRank.GreedyAlgorithms.MinimumAbsoluteDifferenceInAnArray\HackerRank.GreedyAlgorithms.MinimumAbsoluteDifferenceInAnArray.csproj", "{624EBD0E-DAE6-4E95-957E-5DEFA8499578}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.GreedyAlgorithms.LuckBalance", "HackerRank.GreedyAlgorithms.LuckBalance\HackerRank.GreedyAlgorithms.LuckBalance.csproj", "{83542207-CE3D-469B-A0FB-593E54B85622}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank.GreedyAlgorithms.LuckBalance", "HackerRank.GreedyAlgorithms.LuckBalance\HackerRank.GreedyAlgorithms.LuckBalance.csproj", "{83542207-CE3D-469B-A0FB-593E54B85622}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tree", "Tree", "{53C6716D-228E-4C6B-A0F4-FECB916E5F8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.Tree.HeightOfABinaryTree", "HackerRank.Tree.HeightOfABinaryTree\HackerRank.Tree.HeightOfABinaryTree.csproj", "{0DFC8920-4A9F-4712-B874-3021A6BF86E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +145,10 @@ Global
 		{83542207-CE3D-469B-A0FB-593E54B85622}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83542207-CE3D-469B-A0FB-593E54B85622}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83542207-CE3D-469B-A0FB-593E54B85622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DFC8920-4A9F-4712-B874-3021A6BF86E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DFC8920-4A9F-4712-B874-3021A6BF86E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DFC8920-4A9F-4712-B874-3021A6BF86E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DFC8920-4A9F-4712-B874-3021A6BF86E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -166,6 +174,7 @@ Global
 		{CAD3E600-A648-4CB6-9723-18FB8BC14F72} = {22238083-EF22-42BE-90AF-B4AB47E84198}
 		{624EBD0E-DAE6-4E95-957E-5DEFA8499578} = {C58020AD-1884-4AF8-BDC3-5C3D8863A591}
 		{83542207-CE3D-469B-A0FB-593E54B85622} = {C58020AD-1884-4AF8-BDC3-5C3D8863A591}
+		{0DFC8920-4A9F-4712-B874-3021A6BF86E6} = {53C6716D-228E-4C6B-A0F4-FECB916E5F8C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5E3CA82F-F76A-412A-94F7-5B97F3FB816D}
