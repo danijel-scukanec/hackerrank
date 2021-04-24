@@ -73,6 +73,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank.StringManipulati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.StringManipulation.CommonChild", "HackerRank.StringManipulation.CommonChild\HackerRank.StringManipulation.CommonChild.csproj", "{EB157881-DF2E-4520-ABD8-5F9572ED2890}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DynamicProgramming", "DynamicProgramming", "{DFF9F36D-D5D6-462F-845A-40A2E7B8CC5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.DynamicProgramming.MaxArraySum", "HackerRank.DynamicProgramming.MaxArraySum\HackerRank.DynamicProgramming.MaxArraySum.csproj", "{0C2F744E-836D-4750-8864-05C43341EF1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +187,10 @@ Global
 		{EB157881-DF2E-4520-ABD8-5F9572ED2890}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB157881-DF2E-4520-ABD8-5F9572ED2890}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB157881-DF2E-4520-ABD8-5F9572ED2890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C2F744E-836D-4750-8864-05C43341EF1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C2F744E-836D-4750-8864-05C43341EF1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C2F744E-836D-4750-8864-05C43341EF1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C2F744E-836D-4750-8864-05C43341EF1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -214,6 +222,7 @@ Global
 		{71934D54-2B89-44E5-9D77-8E9F21B6EAD3} = {22238083-EF22-42BE-90AF-B4AB47E84198}
 		{AAE1BE88-B8EF-46EC-8AA9-1ADC9549897F} = {22238083-EF22-42BE-90AF-B4AB47E84198}
 		{EB157881-DF2E-4520-ABD8-5F9572ED2890} = {22238083-EF22-42BE-90AF-B4AB47E84198}
+		{0C2F744E-836D-4750-8864-05C43341EF1E} = {DFF9F36D-D5D6-462F-845A-40A2E7B8CC5E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5E3CA82F-F76A-412A-94F7-5B97F3FB816D}
