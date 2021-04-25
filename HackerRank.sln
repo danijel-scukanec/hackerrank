@@ -71,23 +71,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank.StringManipulati
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank.StringManipulation.SpecialStringAgain", "HackerRank.StringManipulation.SpecialStringAgain\HackerRank.StringManipulation.SpecialStringAgain.csproj", "{AAE1BE88-B8EF-46EC-8AA9-1ADC9549897F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.StringManipulation.CommonChild", "HackerRank.StringManipulation.CommonChild\HackerRank.StringManipulation.CommonChild.csproj", "{EB157881-DF2E-4520-ABD8-5F9572ED2890}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank.StringManipulation.CommonChild", "HackerRank.StringManipulation.CommonChild\HackerRank.StringManipulation.CommonChild.csproj", "{EB157881-DF2E-4520-ABD8-5F9572ED2890}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DynamicProgramming", "DynamicProgramming", "{DFF9F36D-D5D6-462F-845A-40A2E7B8CC5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.DynamicProgramming.MaxArraySum", "HackerRank.DynamicProgramming.MaxArraySum\HackerRank.DynamicProgramming.MaxArraySum.csproj", "{0C2F744E-836D-4750-8864-05C43341EF1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank.DynamicProgramming.MaxArraySum", "HackerRank.DynamicProgramming.MaxArraySum\HackerRank.DynamicProgramming.MaxArraySum.csproj", "{0C2F744E-836D-4750-8864-05C43341EF1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.DynamicProgramming.Abbreviation", "HackerRank.DynamicProgramming.Abbreviation\HackerRank.DynamicProgramming.Abbreviation.csproj", "{0C3D722D-4382-4A9D-85D9-440D691F8EFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank.DynamicProgramming.Abbreviation", "HackerRank.DynamicProgramming.Abbreviation\HackerRank.DynamicProgramming.Abbreviation.csproj", "{0C3D722D-4382-4A9D-85D9-440D691F8EFF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StacksAndQueues", "StacksAndQueues", "{C3CA9709-43BC-4028-A9DD-84CCA2F57F41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.StacksAndQueues.BalancedBrackets", "HackerRank.StacksAndQueues.BalancedBrackets\HackerRank.StacksAndQueues.BalancedBrackets.csproj", "{F15B6326-C326-4820-AD89-C6968277871B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank.StacksAndQueues.BalancedBrackets", "HackerRank.StacksAndQueues.BalancedBrackets\HackerRank.StacksAndQueues.BalancedBrackets.csproj", "{F15B6326-C326-4820-AD89-C6968277871B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.StacksAndQueues.ATaleOfTwoStacks", "HackerRank.StacksAndQueues.ATaleOfTwoStacks\HackerRank.StacksAndQueues.ATaleOfTwoStacks.csproj", "{2C3CFFC5-2D94-499D-B539-BE4A372546C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank.StacksAndQueues.ATaleOfTwoStacks", "HackerRank.StacksAndQueues.ATaleOfTwoStacks\HackerRank.StacksAndQueues.ATaleOfTwoStacks.csproj", "{2C3CFFC5-2D94-499D-B539-BE4A372546C2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Search", "Search", "{2E504BF4-3E00-4B66-BACF-9BA5B9069EDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.HashTables.IceCreamParlor", "HackerRank.HashTables.IceCreamParlor\HackerRank.HashTables.IceCreamParlor.csproj", "{D7BB9B73-A5C3-4743-A7AF-C5233E2B1852}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank.Search.HashTablesIceCreamParlor", "HackerRank.HashTables.IceCreamParlor\HackerRank.Search.HashTablesIceCreamParlor.csproj", "{D7BB9B73-A5C3-4743-A7AF-C5233E2B1852}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.Search.SwapNodes", "HackerRank.Search.SwapNodes\HackerRank.Search.SwapNodes.csproj", "{FD4DB75A-CAFA-416A-A1B4-B40776CFB1FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.Search.Pairs", "HackerRank.Search.Pairs\HackerRank.Search.Pairs.csproj", "{4AD77675-638B-4DE1-9BF8-AEA877856147}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -219,6 +223,14 @@ Global
 		{D7BB9B73-A5C3-4743-A7AF-C5233E2B1852}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7BB9B73-A5C3-4743-A7AF-C5233E2B1852}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7BB9B73-A5C3-4743-A7AF-C5233E2B1852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD4DB75A-CAFA-416A-A1B4-B40776CFB1FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4DB75A-CAFA-416A-A1B4-B40776CFB1FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4DB75A-CAFA-416A-A1B4-B40776CFB1FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4DB75A-CAFA-416A-A1B4-B40776CFB1FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AD77675-638B-4DE1-9BF8-AEA877856147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD77675-638B-4DE1-9BF8-AEA877856147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD77675-638B-4DE1-9BF8-AEA877856147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD77675-638B-4DE1-9BF8-AEA877856147}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -255,6 +267,8 @@ Global
 		{F15B6326-C326-4820-AD89-C6968277871B} = {C3CA9709-43BC-4028-A9DD-84CCA2F57F41}
 		{2C3CFFC5-2D94-499D-B539-BE4A372546C2} = {C3CA9709-43BC-4028-A9DD-84CCA2F57F41}
 		{D7BB9B73-A5C3-4743-A7AF-C5233E2B1852} = {2E504BF4-3E00-4B66-BACF-9BA5B9069EDF}
+		{FD4DB75A-CAFA-416A-A1B4-B40776CFB1FC} = {2E504BF4-3E00-4B66-BACF-9BA5B9069EDF}
+		{4AD77675-638B-4DE1-9BF8-AEA877856147} = {2E504BF4-3E00-4B66-BACF-9BA5B9069EDF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5E3CA82F-F76A-412A-94F7-5B97F3FB816D}
