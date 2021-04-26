@@ -89,15 +89,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Search", "Search", "{2E504B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank.Search.HashTablesIceCreamParlor", "HackerRank.HashTables.IceCreamParlor\HackerRank.Search.HashTablesIceCreamParlor.csproj", "{D7BB9B73-A5C3-4743-A7AF-C5233E2B1852}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.Search.SwapNodes", "HackerRank.Search.SwapNodes\HackerRank.Search.SwapNodes.csproj", "{FD4DB75A-CAFA-416A-A1B4-B40776CFB1FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank.Search.SwapNodes", "HackerRank.Search.SwapNodes\HackerRank.Search.SwapNodes.csproj", "{FD4DB75A-CAFA-416A-A1B4-B40776CFB1FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.Search.Pairs", "HackerRank.Search.Pairs\HackerRank.Search.Pairs.csproj", "{4AD77675-638B-4DE1-9BF8-AEA877856147}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank.Search.Pairs", "HackerRank.Search.Pairs\HackerRank.Search.Pairs.csproj", "{4AD77675-638B-4DE1-9BF8-AEA877856147}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.Search.TripleSum", "HackerRank.Search.TripleSum\HackerRank.Search.TripleSum.csproj", "{3D2EE34C-BD26-4581-8C31-FCDA355EE1E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank.Search.TripleSum", "HackerRank.Search.TripleSum\HackerRank.Search.TripleSum.csproj", "{3D2EE34C-BD26-4581-8C31-FCDA355EE1E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.Search.MinimumTimeRequired", "HackerRank.Search.MinimumTimeRequired\HackerRank.Search.MinimumTimeRequired.csproj", "{8088B964-DAFE-4749-8D09-38979DC6DB44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank.Search.MinimumTimeRequired", "HackerRank.Search.MinimumTimeRequired\HackerRank.Search.MinimumTimeRequired.csproj", "{8088B964-DAFE-4749-8D09-38979DC6DB44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.RecursionAndBacktracking.DavisStaircase", "HackerRank.RecursionAndBacktracking.DavisStaircase\HackerRank.RecursionAndBacktracking.DavisStaircase.csproj", "{41CF5ACF-1412-48F6-9408-BEF0CFB10F62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank.RecursionAndBacktracking.DavisStaircase", "HackerRank.RecursionAndBacktracking.DavisStaircase\HackerRank.RecursionAndBacktracking.DavisStaircase.csproj", "{41CF5ACF-1412-48F6-9408-BEF0CFB10F62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.Miscellaneous.TimeComplexityPrimality", "HackerRank.Miscellaneous.TimeComplexityPrimality\HackerRank.Miscellaneous.TimeComplexityPrimality.csproj", "{D1A4C9B5-C349-47CA-A375-15316B316DF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -249,6 +251,10 @@ Global
 		{41CF5ACF-1412-48F6-9408-BEF0CFB10F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41CF5ACF-1412-48F6-9408-BEF0CFB10F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41CF5ACF-1412-48F6-9408-BEF0CFB10F62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1A4C9B5-C349-47CA-A375-15316B316DF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A4C9B5-C349-47CA-A375-15316B316DF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A4C9B5-C349-47CA-A375-15316B316DF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A4C9B5-C349-47CA-A375-15316B316DF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -290,6 +296,7 @@ Global
 		{3D2EE34C-BD26-4581-8C31-FCDA355EE1E5} = {2E504BF4-3E00-4B66-BACF-9BA5B9069EDF}
 		{8088B964-DAFE-4749-8D09-38979DC6DB44} = {2E504BF4-3E00-4B66-BACF-9BA5B9069EDF}
 		{41CF5ACF-1412-48F6-9408-BEF0CFB10F62} = {CDE6B955-C74A-40DE-B116-FF1FE52DFAF9}
+		{D1A4C9B5-C349-47CA-A375-15316B316DF6} = {2AC6E041-4628-43C2-8D46-5CC23BE0DBA8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5E3CA82F-F76A-412A-94F7-5B97F3FB816D}
